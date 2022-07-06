@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-## Github Stats 
+## <img src="catroll.gif" height="30"> Github Stats 
 <p float="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BlackIsBlack&theme=nightowl" height="210" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsBlack&layout=compact&theme=nightowl" height="210" /> 
