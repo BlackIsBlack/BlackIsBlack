@@ -14,8 +14,8 @@
 
 ## <img src="catroll.gif" height="30"> Github Stats 
 <p float="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BlackIsBlack&theme=nightowl" height="210" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsBlack&layout=compact&theme=nightowl" height="210" /> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BlackIsBlack&theme=nightowl" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsBlack&layout=compact&theme=nightowl" height="170" /> 
 </p>
 
 <div align="center"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"></div>
