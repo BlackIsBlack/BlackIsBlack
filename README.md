@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**BlackIsBlack/BlackIsBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.png"><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and tools I use 
+
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
+## Github Stats 
+<p float="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BlackIsBlack&theme=nightowl" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIsBlack&layout=compact&theme=nightowl" height="210" /> 
+</p>
+
+<div align="center"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"><img src="aussiecongaparrot.gif" height="20"></div>
