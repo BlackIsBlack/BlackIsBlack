@@ -1,7 +1,3 @@
-
-<img src="banner.png"><br>
-
-
 ## 🛠️ Languages and tools I use 
 
 <p align="center">
